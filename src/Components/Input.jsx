@@ -9,4 +9,4 @@ const Input = (props) =>{
     )
 }
 
-export { Input } ;
+export { Input } 

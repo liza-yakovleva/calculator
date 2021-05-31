@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/liza-yakovleva/calculatorstatic/css/main.5a708381.chunk.css",
+    "main.js": "/liza-yakovleva/calculatorstatic/js/main.d34dd88e.chunk.js",
+    "main.js.map": "/liza-yakovleva/calculatorstatic/js/main.d34dd88e.chunk.js.map",
+    "runtime-main.js": "/liza-yakovleva/calculatorstatic/js/runtime-main.2beda45b.js",
+    "runtime-main.js.map": "/liza-yakovleva/calculatorstatic/js/runtime-main.2beda45b.js.map",
+    "static/js/2.8e22651c.chunk.js": "/liza-yakovleva/calculatorstatic/js/2.8e22651c.chunk.js",
+    "static/js/2.8e22651c.chunk.js.map": "/liza-yakovleva/calculatorstatic/js/2.8e22651c.chunk.js.map",
+    "index.html": "/liza-yakovleva/calculatorindex.html",
+    "static/css/main.5a708381.chunk.css.map": "/liza-yakovleva/calculatorstatic/css/main.5a708381.chunk.css.map",
+    "static/js/2.8e22651c.chunk.js.LICENSE.txt": "/liza-yakovleva/calculatorstatic/js/2.8e22651c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2beda45b.js",
+    "static/js/2.8e22651c.chunk.js",
+    "static/css/main.5a708381.chunk.css",
+    "static/js/main.d34dd88e.chunk.js"
+  ]
+}

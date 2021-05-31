@@ -20,4 +20,4 @@ const BackBtn = ({removeLastElement, children}) => {
   )
 }
 
-export { ClearBtn, BackBtn };
+export { ClearBtn, BackBtn }
