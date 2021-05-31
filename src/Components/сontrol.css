@@ -1,0 +1,26 @@
+
+
+.clear,
+.back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #e7f5dc;
+  color: #64ac8f;
+  height: 3em;
+  font-family: "Lato", sans-serif;
+  cursor: pointer;
+  width: 100%;
+   
+}
+.clear:hover,
+.back:hover {
+  background:#c0dfc2;
+  color: #64ac8f; 
+}
+.clear{
+ border-radius: 0px 0px 0px 20px;
+}
+.back {
+ border-radius: 0px 0px 20px 0px;
+}

@@ -1,0 +1,16 @@
+
+
+.input{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: calc(100%-10px);
+    height: 3em;
+padding-right: 10px;
+    background-color:#c0dfc2;     
+    color: #64ac8f;
+    font-size: 1.4em;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 20px 20px 0px 0px;
+   
+} 

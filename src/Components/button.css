@@ -1,0 +1,26 @@
+.button {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  font-size: 2em;
+  background: #64ac8f;
+  color: #e7f5dc;
+  cursor: pointer;
+  justify-content: space-around
+}
+.button:hover,
+.operator:hover {
+  background:  #e7f5dc;
+  color:#64ac8f;
+}
+
+.operator {
+  display: flex;
+  flex: 2;
+  padding: 20px;
+  background: #64ac8f;
+  color: #4b6154;
+  font-size: 2em;
+  cursor: pointer;
+   justify-content: space-around
+}
