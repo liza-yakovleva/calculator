@@ -1,6 +1,6 @@
 {
   "name": "react-calculator",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "react-calculator",
   "keywords": [],
   "main": "src/index.js",
@@ -24,12 +24,9 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liza-yakovleva/calculator.git"
+    "url": ""
   },
   "author": "elizaveta yakovleva",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/liza-yakovleva/calculator/issues"
-  },
-  "homepage": "https://github.com/liza-yakovleva/calculator#readme"
+  "homepage": ""
 }
